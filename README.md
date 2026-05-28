@@ -631,7 +631,7 @@ Implemented:
 
 Built by **Iosif Castrucci**
 
-GitHub: `iosif castrucci`
+GitHub: `iosif-castrucci-hub`
 Email: `contact.iosifcastrucci@gmail.com`
 
 ---
