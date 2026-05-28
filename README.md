@@ -627,50 +627,12 @@ Implemented:
 
 ---
 
-## Screenshots
-
-Add your screenshots below.
-
-### n8n Workflow Overview
-
-<!-- Add screenshot here -->
-
-### Webhook Test Output
-
-<!-- Add screenshot here -->
-
-### Google Sheets Security Event Log
-
-<!-- Add screenshot here -->
-
-### AbuseIPDB HTTP Request Output
-
-<!-- Add screenshot here -->
-
-### IF Risk Classification
-
-<!-- Add screenshot here -->
-
-### Telegram Security Alert
-
-<!-- Add screenshot here -->
-
-### High-Risk Google Sheets Update
-
-<!-- Add screenshot here -->
-
-### Low-Risk Google Sheets Update
-
-<!-- Add screenshot here -->
-
----
-
 ## Author
 
-Built by **CRM Solutions Lab**
+Built by **Iosif Castrucci**
 
-GitHub: `crm-solutions-lab`
-Email: `crmsolution.contact@gmail.com`
+GitHub: `iosif castrucci`
+Email: `contact.iosifcastrucci@gmail.com`
 
 ---
 
