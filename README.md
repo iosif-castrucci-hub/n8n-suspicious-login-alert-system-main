@@ -7,8 +7,8 @@ This project demonstrates how to build a simple security monitoring workflow tha
 ---
 
 
-![n8n Workflow Overview](screenshot/checkIP_automation.png)
-![n8n Workflow Overview](screenshot/Demo_db.png)
+![n8n Workflow Overview](checkIP_automation.png)
+![n8n Workflow Overview](Demo_db.png)
 
 
 ## Project Overview
